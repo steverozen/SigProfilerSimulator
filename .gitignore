@@ -22,3 +22,7 @@ tests/**/example_copy/logs/
 # Ignore any test.vcf input files generated/copied into test folders
 tests/**/example/input/test.vcf
 tests/**/example_copy/input/test.vcf
+
+# Editor / local notes
+.vscode/
+dev_notes/*.pdf
